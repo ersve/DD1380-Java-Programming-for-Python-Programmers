@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d4b7f66-3a2c-4df0-b3ed-d60d5c0276bb" name="Default Changelist" comment="" />
+    <list default="true" id="8d4b7f66-3a2c-4df0-b3ed-d60d5c0276bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/src/ZAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.3.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.3.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rorschach.1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rorschach.1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rorschach.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rorschach.2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rorschach.3.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rorschach.3.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/KMP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord.2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.2.in" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SsYraDDXma9oV6nf6biCq029Pm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -51,5 +81,16 @@
       <updated>1572353969326</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

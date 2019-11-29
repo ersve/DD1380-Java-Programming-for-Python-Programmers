@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59856c66-dffb-428a-b73f-6f9447cf508c" name="Default Changelist" comment="" />
+    <list default="true" id="59856c66-dffb-428a-b73f-6f9447cf508c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.3.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.3.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.3.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.3.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KMP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord.2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/ord1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.1.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.2.ans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.2.in" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SvJ2uit0AFjr8HnTB95iHZhZg2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -27,6 +57,30 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NoMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NoMatch" />
+      <module name="Lab4" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/sample/enigma.2.in" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="NoMatch" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/sample/enigma.1.in" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NoMatch" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,5 +94,16 @@
       <updated>1572437931169</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
