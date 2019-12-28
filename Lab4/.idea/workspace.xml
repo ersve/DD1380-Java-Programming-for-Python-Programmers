@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59856c66-dffb-428a-b73f-6f9447cf508c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.1.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.1.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.2.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.2.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.3.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/pussel.3.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.1.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.1.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.2.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.2.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.3.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/Rorschach.3.in" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KMP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/ord.2.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/ord.2.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/ord1.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/ord1.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.1.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.1.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.2.ans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1/src/sample/ord.2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NoMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NoMatch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +70,13 @@
       <option name="presentableId" value="Default" />
       <updated>1572437931169</updated>
     </task>
+    <task id="LOCAL−00001" summary="First working program">
+      <created>1575070032177</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1575070032177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,10 +84,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First working program" />
+    <option name="LAST_COMMIT_MESSAGE" value="First working program" />
   </component>
 </project>

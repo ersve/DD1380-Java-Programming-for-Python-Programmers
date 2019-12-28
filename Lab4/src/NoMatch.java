@@ -10,9 +10,9 @@ import java.io.IOException;
 
 public class NoMatch {
     private static int[] counter(String text, String pattern) {
+
         int count[] = new int[text.length()];
         int numPos = text.length() - pattern.length() + 1;
-
 
         for (int i = 0; i < numPos; i++) {
             int pntr = 0;
@@ -20,10 +20,7 @@ public class NoMatch {
                 pntr++;
             }
             count[i] = pntr;
-
-
         }
-
         return count;
     }
 
@@ -46,17 +43,17 @@ public class NoMatch {
         try {
             String text1 = in.readLine(10000);
             String pattern1 = in.readLine(50);
-            if (pattern1.length()>0 && pattern1.length()<=text1.length()) {
-                
-                List<Integer> result = check(text1, pattern1);
-
-                for (int element : result) {
-                    System.out.print(element + " ");
-
-                }
-            }else{
-                System.out.println(-1);
+            if (pattern1.length()==0 || pattern1.length()>text1.length()) {
+                throw  new IOException();
             }
+
+            List<Integer> result = check(text1, pattern1);
+
+            for (int element : result) {
+                System.out.print(element + " ");
+
+            }
+
         }catch (IOException e) {
             System.out.println(-1);
             System.exit(0);
